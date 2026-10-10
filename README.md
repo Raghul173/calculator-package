@@ -1,11 +1,9 @@
 # Calculator Package
 
-A simple Python package created for a FOSS assignment.
+A simple Python package for a FOSS assignment.
 
-## Features
+Features:
 - Addition
 - Subtraction
-- Multiplication
 
-## How to Run
-python calculator.py
+Run using: python calculator.py
